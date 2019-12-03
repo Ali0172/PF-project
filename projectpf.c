@@ -1,3 +1,8 @@
+// CRICKET SCORING SYSTEM //
+// 19K-0172	ALI FAROOQ
+// 19K-1338	JARI SAJJAD
+// 19K-0344	HASSAN MUSTAFA
+
 #include<stdio.h>
 #include <stdlib.h> 
 #include<string.h>
